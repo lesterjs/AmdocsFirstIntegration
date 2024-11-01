@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="AmdocsFirstIntegration" groupId="com.amdocs.crm.api" version="1.0.0" type="synapse/api" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/api/AmdocsFirstIntegration.xml</file>
+    </artifact>
+    <artifact name="AmdocsFirstIntegration_swagger" groupId="com.amdocs.crm.metadata" version="1.0.0" type="synapse/metadata" serverRole="EnterpriseServiceBus">
+        <file>src/main/resources/metadata/AmdocsFirstIntegration_swagger.yaml</file>
+    </artifact>
+    <artifact name="AmdocsFirstIntegration_metadata" groupId="com.amdocs.crm.metadata" version="1.0.0" type="synapse/metadata" serverRole="EnterpriseServiceBus">
+        <file>src/main/resources/metadata/AmdocsFirstIntegration_metadata.yaml</file>
+    </artifact>
+</artifacts>
